@@ -23,6 +23,8 @@ class MusicLibraryController
       case input
         when "list songs"
           list_songs
+        else
+      end
     end
   end
   
