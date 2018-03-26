@@ -74,4 +74,3 @@ class MusicLibraryController
   end
   play_song
 end
-end
